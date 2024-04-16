@@ -1,0 +1,36 @@
+Fimbulvetr and all parts of its code is licensed under Torchbearer Project License v1.0.
+Its assets may be licensed differently. Please refer to the `license` folder's contents.
+
+Torchbearer Project License v1.0
+---
+
+Allowed scope of projects using this license includes the following:
+- Private use
+- Non-commercial use
+- Commercial events for the benefit of the community, vulnerable groups of people, or the humanity (such as charity events, fundraisers, etc.)
+
+Prohibited use of projects using this license includes the following:
+- Commercial use
+- Patents
+- Trademarks
+
+In addition to the aforementioned scope of use, this license permits:
+- Modification of part of the code, program, and/or included binary data
+- Derivative use
+
+Given that these conditions are met:
+- ALL changes are stated precisely in a separate, but always included, text file with the name "CHANGES.TXT"
+- This license text must be included with every distributed copy of the project (Network sharing is considered as distribution of the project.)
+- The source must be disclosed alongside compiled binary file, such as EXE file or ELF file. (obfuscation, encryption, password-protection or other schemes to prevent reading of ORIGINAL DATA is prohibited.)
+- The original project name is stated clearly in a format that is concise and short, such as "(Derivative Project), based on (Original Project)", in a clearly visible part of the distribution, such as on the web page for the project or introduction document
+- The license is not changed to other licenses (sub-licensing is prohibited.)
+
+DISCLAIMER
+THE SOFTWARE, CODE AND/OR PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, 
+OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, 
+OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, CODE AND/OR PROJECT OR FROM 
+OTHER DEALINGS IN THE SOFTWARE, CODE AND/OR PROJECT.
